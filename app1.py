@@ -29,7 +29,7 @@ def main():
     left, right = st.columns(2)
     prediction = st.container()
 
-    st.image("https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg", caption="RMS Titanic")
+    st.image("images/Titanic.jpg", caption="RMS Titanic")
 
 
     with overview:
